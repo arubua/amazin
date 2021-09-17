@@ -1,4 +1,5 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+The project also uses [chakra-ui](https://github.com/chakra-ui/chakra-ui/) for styling
 
 I started out with [this-template](https://github.com/arubua/cna-chakra-ui-template)
 

@@ -1,0 +1,28 @@
+1.Which specifications were you unable to address in your submitted application?
+*My preferred typechecker would be Typescript but I need to learn how to work with it in react.
+*Setting up a test library
+*Integrating an internationalization library 
+
+2. Were you able to add a technique for boosting the application’s performance?
+
+YES
+
+ If so, what technique did you use?
+*Service workers
+*caching to localStoreage
+
+3. Which i18n library did you choose and why?
+None yet because of time constraints
+
+4. If you had more time, how would you improve your application? What new features would you add?
+
+*Optimize images and web app for performance
+*Improve the overall UI of the web app
+* Add checkout, order summary,product category,user authentication, features
+
+5. Which part of the assignment did you enjoy the most?
+Coding the UI DESIGN
+
+6.Which part of the assignment did you enjoy the least?
+Coming up with the UI 
+
