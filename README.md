@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-I started out with [this template] (https://github.com/arubua/cna-chakra-ui-template)
+I started out with [this-template](https://github.com/arubua/cna-chakra-ui-template)
 
 ## Getting Started
 
